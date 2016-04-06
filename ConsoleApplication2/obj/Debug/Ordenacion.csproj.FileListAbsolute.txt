@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\curso asp.net\ConsoleApplication2\ConsoleApplication2\bin\Debug\Ordenacion.exe.config
+C:\Users\admin\Desktop\curso asp.net\ConsoleApplication2\ConsoleApplication2\bin\Debug\Ordenacion.exe
+C:\Users\admin\Desktop\curso asp.net\ConsoleApplication2\ConsoleApplication2\bin\Debug\Ordenacion.pdb
+C:\Users\admin\Desktop\curso asp.net\ConsoleApplication2\ConsoleApplication2\obj\Debug\Ordenacion.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\ConsoleApplication2\ConsoleApplication2\obj\Debug\Ordenacion.exe
+C:\Users\admin\Desktop\curso asp.net\ConsoleApplication2\ConsoleApplication2\obj\Debug\Ordenacion.pdb
